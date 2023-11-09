@@ -1,0 +1,70 @@
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  table td,
+  table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+
+  h1{
+    margin: auto;
+    color: rgb(57, 150, 227);
+    padding-left: 35%;
+    font-size: 25px;
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  form{
+    height: 370px;
+    width: 220px;
+    margin-left: 10%;
+    margin-top: 4%;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+  }
+  label{
+    padding-left: 15px;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+  }
+  
+  input{
+    font-size: 15px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    
+  }
+
+  #cont{
+    display: flex;
+    
+  }
+
+  thead{
+    
+  }
+  
+  #dept{
+    margin-left: 15px;
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+
+  #sub{
+    background-color: rgb(45, 45, 228);
+    color: white;
+    border-radius: 30px;
+    margin-left: 25px;
+    margin-top: 10px;
+    width: 150px;
+    height: 40px;
+  }
